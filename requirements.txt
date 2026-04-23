@@ -1,0 +1,8 @@
+torch
+torchvision
+torchsummary
+numpy
+matplotlib
+Pillow
+watermark
+jupyter
